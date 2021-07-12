@@ -1,0 +1,11 @@
+--2021-07-11 17:44:29--  https://raw.githubusercontent.com/dcgtrainings/demo-trainings/master/README.md
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1149 (1.1K) [text/plain]
+Saving to: ‘README.md’
+
+     0K .                                                     100% 26.1M=0s
+
+2021-07-11 17:44:30 (26.1 MB/s) - ‘README.md’ saved [1149/1149]
+
